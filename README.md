@@ -8,6 +8,7 @@
   <a href="https://github.com/cerebrocss/LinearTrackController"><img alt="LinearTrackController" src="https://img.shields.io/badge/LinearTrackController-experiment%20control-2ea44f?style=flat-square"></a>
   <a href="https://github.com/cerebrocss/laminar-boundary-builder"><img alt="laminar-boundary-builder" src="https://img.shields.io/badge/laminar%20boundary-builder-8250df?style=flat-square"></a>
   <a href="https://github.com/cerebrocss/neuronCss"><img alt="neuronCss" src="https://img.shields.io/badge/neuronCss-neuroscience%20code-0969da?style=flat-square"></a>
+  <a href="https://github.com/cerebrocss/connectome_viewer"><img alt="connectome_viewer" src="https://img.shields.io/badge/connectome__viewer-neuron%20viewer-dc2626?style=flat-square"></a>
 </p>
 
 ---
@@ -24,6 +25,7 @@
 | --- | --- |
 | [LinearTrackController](https://github.com/cerebrocss/LinearTrackController) | Dual-Arduino linear track controller firmware and experiment runner. |
 | [laminar-boundary-builder](https://github.com/cerebrocss/laminar-boundary-builder) | Interactive laminar boundary annotation, surface extraction, and depth-field builder for brain region masks. |
+| [connectome_viewer](https://github.com/cerebrocss/connectome_viewer) | Standalone macOS neuron viewer for SWC files and brain-region meshes. |
 | [neuronCss](https://github.com/cerebrocss/neuronCss) | Public neuroscience code experiments and notes. |
 | [C-learning](https://github.com/cerebrocss/C-learning) | C++ learning notes and practice code. |
 
@@ -43,4 +45,6 @@ Public work here mostly sits around experiment control, neuroscience analysis he
   <a href="https://github.com/cerebrocss/LinearTrackController">Experiment control</a>
   ·
   <a href="https://github.com/cerebrocss/laminar-boundary-builder">Annotation tools</a>
+  ·
+  <a href="https://github.com/cerebrocss/connectome_viewer">Neuron viewer</a>
 </p>
