@@ -35,7 +35,12 @@
 
 I like practical research tools: control systems, data pipelines, and analysis helpers that are easy to inspect, reuse, and explain.
 
+Public work here mostly sits around experiment control, neuroscience analysis helpers, and small tools that are easy to run and check.
+
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=cerebrocss&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerebrocss&layout=compact&hide_border=true&langs_count=6&theme=transparent" alt="Top languages" />
+  <a href="https://github.com/cerebrocss?tab=repositories">Public repositories</a>
+  ·
+  <a href="https://github.com/cerebrocss/LinearTrackController">Experiment control</a>
+  ·
+  <a href="https://github.com/cerebrocss/laminar-boundary-builder">Annotation tools</a>
 </p>
