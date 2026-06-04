@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Shishuo</h1>
+<h1 align="center">Shishuo Chen</h1>
 
 <p align="center">
-  Neuroscience tools | experimental control | scientific computing
+  Building small, checkable tools for neuroscience experiments.
 </p>
 
 <p align="center">
@@ -12,30 +12,41 @@
 
 ---
 
-## What I Work On
+## My GitHub Is A Small Research Workbench
 
-- Turning neuroscience experiment ideas into small, inspectable software and hardware tools.
-- Building analysis helpers for neural connectivity, laminar boundaries, and lab data workflows.
-- Keeping code readable enough that another researcher can check it without guesswork.
+I like turning messy experiment ideas into tools that can be opened, checked, and improved by another person.
 
-## Featured Repositories
+Most of my public work sits near three places:
 
-| Repository | Focus |
+- behavioral experiment control
+- neuroscience annotation and analysis helpers
+- small practice projects that make me better at writing clear code
+
+I care less about making code look impressive, and more about making it easy to understand when an experiment is already hard enough.
+
+## Projects I Want People To Notice
+
+| Project | What it is really about |
 | --- | --- |
-| [LinearTrackController](https://github.com/cerebrocss/LinearTrackController) | Dual-Arduino linear track controller firmware and experiment runner. |
-| [laminar-boundary-builder](https://github.com/cerebrocss/laminar-boundary-builder) | Interactive laminar boundary annotation, surface extraction, and depth-field builder for brain region masks. |
-| [neuronCss](https://github.com/cerebrocss/neuronCss) | Public neuroscience code experiments and notes. |
-| [C-learning](https://github.com/cerebrocss/C-learning) | C++ learning notes and practice code. |
+| [LinearTrackController](https://github.com/cerebrocss/LinearTrackController) | A dual-Arduino controller and experiment runner for linear-track behavioral work. |
+| [laminar-boundary-builder](https://github.com/cerebrocss/laminar-boundary-builder) | A visual tool for drawing, checking, and exporting laminar boundaries from brain region masks. |
+| [neuronCss](https://github.com/cerebrocss/neuronCss) | A public space for neuroscience code experiments and notes. |
+| [C-learning](https://github.com/cerebrocss/C-learning) | Practice notes for getting closer to the machine, one small C++ step at a time. |
 
-## Toolbelt
+## How I Like To Build
+
+- Start from the real experiment or analysis problem.
+- Keep the code readable enough to debug under pressure.
+- Prefer small working pieces over a clever system nobody wants to touch.
+- Write tools that leave a trail: names, files, and outputs should explain what happened.
+
+## Tools I Reach For
 
 `Python` `C/C++` `PyTorch` `KiCad` `MATLAB` `Git`
 
 ## Current Direction
 
-I like practical research tools: control systems, data pipelines, and analysis helpers that are easy to inspect, reuse, and explain.
-
-Public work here mostly sits around experiment control, neuroscience analysis helpers, and small tools that are easy to run and check.
+Right now I am most interested in practical research tools: control systems, data pipelines, annotation helpers, and analysis workflows that make neuroscience work less fragile.
 
 <p align="center">
   <a href="https://github.com/cerebrocss?tab=repositories">Public repositories</a>
